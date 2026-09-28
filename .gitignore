@@ -1,0 +1,6 @@
+# Agent tooling and notes stay out of the repository
+.claude/
+CLAUDE.md
+.remember/
+notes/
+.DS_Store
